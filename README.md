@@ -3,6 +3,6 @@ Optimisation Stochastique pour la Localisation et l’Affectation des Clients : 
 
 L'objectif est de déterminer :
 
-Où localiser des installations (entrepôts ou usines) pour servir un ensemble de clients.
+1-Où localiser des installations (entrepôts ou usines) pour servir un ensemble de clients.
 
-Comment affecter les clients aux installations ouvertes pour minimiser les coûts ou maximiser les profits.
+2-Comment affecter les clients aux installations ouvertes pour minimiser les coûts ou maximiser les profits.
